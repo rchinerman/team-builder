@@ -1,0 +1,297 @@
+{
+  "antimage": {
+    "name": "Anti-Mage",
+    "alliances": ["Elusive", "Demon Hunter"],
+    "cost": "1"
+  },
+  "axe": {
+    "name": "Axe",
+    "alliances": ["Brawny", "Warrior"],
+    "cost": "1"
+  },
+  "batrider": {
+    "name": "Batrider",
+    "alliances": ["Troll", "Knight"],
+    "cost": "1"
+  },
+  "bloodseeker": {
+    "name": "Bloodseeker",
+    "alliances": ["Human", "Assassin"],
+    "cost": "1"
+  },
+  "clockwerk": {
+    "name": "Clockwerk",
+    "alliances": ["Scrappy", "Inventor"],
+    "cost": "1"
+  },
+  "drowranger": {
+    "name": "Drow Ranger",
+    "alliances": ["Heartless", "Hunter"],
+    "cost": "1"
+  },
+  "enchantress": {
+    "name": "Enchantress",
+    "alliances": ["Savage", "Druid"],
+    "cost": "1"
+  },
+  "ogremagi": {
+    "name": "Ogre Magi",
+    "alliances": ["Blood-Bound", "Mage"],
+    "cost": "1"
+  },
+  "shadowshaman": {
+    "name": "Shadow Shaman",
+    "alliances": ["Troll", "Shaman"],
+    "cost": "1"
+  },
+  "tinker": {
+    "name": "Tinker",
+    "alliances": ["Scrappy", "Inventor"],
+    "cost": "1"
+  },
+  "tiny": {
+    "name": "Tiny",
+    "alliances": ["Primordial", "Warrior"],
+    "cost": "1"
+  },
+  "tusk": {
+    "name": "Tusk",
+    "alliances": ["Savage", "Warrior"],
+    "cost": "1"
+  },
+  "warlock": {
+    "name": "Warlock",
+    "alliances": ["Blood-Bound", "Warlock"],
+    "cost": "1"
+  },
+  "beastmaster": {
+    "name": "Beastmaster",
+    "alliances": ["Brawny", "Hunter"],
+    "cost": "2"
+  },
+  "chaosknight": {
+    "name": "Chaos Knight",
+    "alliances": ["Demon", "Knight"],
+    "cost": "2"
+  },
+  "crystalmaiden": {
+    "name": "Crystal Maiden",
+    "alliances": ["Human", "Mage"],
+    "cost": "2"
+  },
+  "juggernaut": {
+    "name": "Juggernaut",
+    "alliances": ["Brawny", "Warrior"],
+    "cost": "2"
+  },
+  "luna": {
+    "name": "Luna",
+    "alliances": ["Elusive", "Knight"],
+    "cost": "2"
+  },
+  "morphling": {
+    "name": "Morphling",
+    "alliances": ["Primordial", "Assassin"],
+    "cost": "2"
+  },
+  "naturesprophet": {
+    "name": "Nature's Prophet",
+    "alliances": ["Elusive", "Druid"],
+    "cost": "2"
+  },
+  "puck": {
+    "name": "Puck",
+    "alliances": ["Elusive", "Dragon", "Mage"],
+    "cost": "2"
+  },
+  "pudge": {
+    "name": "Pudge",
+    "alliances": ["Heartless", "Warrior"],
+    "cost": "2"
+  },
+  "queenofpain": {
+    "name": "Queen of Pain",
+    "alliances": ["Demon", "Assassin"],
+    "cost": "2"
+  },
+  "slardar": {
+    "name": "Slardar",
+    "alliances": ["Scaled", "Warrior"],
+    "cost": "2"
+  },
+  "timbersaw": {
+    "name": "Timbersaw",
+    "alliances": ["Scrappy", "Inventor"],
+    "cost": "2"
+  },
+  "treantprotector": {
+    "name": "Treant Protector",
+    "alliances": ["Elusive", "Druid"],
+    "cost": "2"
+  },
+  "witchdoctor": {
+    "name": "Witch Doctor",
+    "alliances": ["Troll", "Warlock"],
+    "cost": "2"
+  },
+  "abaddon": {
+    "name": "Abaddon",
+    "alliances": ["Heartless", "Knight"],
+    "cost": "3"
+  },
+  "arcwarden": {
+    "name": "Arc Warden",
+    "alliances": ["Primordial", "Shaman"],
+    "cost": "3"
+  },
+  "lina": {
+    "name": "Lina",
+    "alliances": ["Human", "Mage"],
+    "cost": "3"
+  },
+  "lycan": {
+    "name": "Lycan",
+    "alliances": ["Human", "Savage", "Warrior"],
+    "cost": "3"
+  },
+  "omniknight": {
+    "name": "Omniknight",
+    "alliances": ["Human", "Knight"],
+    "cost": "3"
+  },
+  "phantomassassin": {
+    "name": "Phantom Assassin",
+    "alliances": ["Elusive", "Assassin"],
+    "cost": "3"
+  },
+  "razor": {
+    "name": "Razor",
+    "alliances": ["Primordial", "Mage"],
+    "cost": "3"
+  },
+  "sandking": {
+    "name": "Sand King",
+    "alliances": ["Savage", "Assassin"],
+    "cost": "3"
+  },
+  "shadowfiend": {
+    "name": "Shadow Fiend",
+    "alliances": ["Demon", "Warlock"],
+    "cost": "3"
+  },
+  "slark": {
+    "name": "Slark",
+    "alliances": ["Scaled", "Assassin"],
+    "cost": "3"
+  },
+  "sniper": {
+    "name": "Sniper",
+    "alliances": ["Deadeye", "Hunter"],
+    "cost": "3"
+  },
+  "terrorblade": {
+    "name": "Terrorblade",
+    "alliances": ["Demon", "Demon Hunter"],
+    "cost": "3"
+  },
+  "venomancer": {
+    "name": "Venomancer",
+    "alliances": ["Savage", "Warlock"],
+    "cost": "3"
+  },
+  "viper": {
+    "name": "Viper",
+    "alliances": ["Dragon", "Assassin"],
+    "cost": "3"
+  },
+  "windranger": {
+    "name": "Windranger",
+    "alliances": ["Elusive", "Hunter"],
+    "cost": "3"
+  },
+  "alchemist": {
+    "name": "Alchemist",
+    "alliances": ["Scrappy", "Warlock"],
+    "cost": "4"
+  },
+  "disruptor": {
+    "name": "Disruptor",
+    "alliances": ["Brawny", "Shaman"],
+    "cost": "4"
+  },
+  "doom": {
+    "name": "Doom",
+    "alliances": ["Demon", "Warrior"],
+    "cost": "4"
+  },
+  "dragonknight": {
+    "name": "Dragon Knight",
+    "alliances": ["Human", "Dragon", "Knight"],
+    "cost": "4"
+  },
+  "keeperofthelight": {
+    "name": "Keeper of the Light",
+    "alliances": ["Human", "Mage"],
+    "cost": "4"
+  },
+  "kunkka": {
+    "name": "Kunkka",
+    "alliances": ["Human", "Warrior"],
+    "cost": "4"
+  },
+  "lonedruid": {
+    "name": "Lone Druid",
+    "alliances": ["Savage", "Druid"],
+    "cost": "4"
+  },
+  "medusa": {
+    "name": "Medusa",
+    "alliances": ["Scaled", "Hunter"],
+    "cost": "4"
+  },
+  "mirana": {
+    "name": "Mirana",
+    "alliances": ["Elusive", "Hunter"],
+    "cost": "4"
+  },
+  "necrophos": {
+    "name": "Necrophos",
+    "alliances": ["Heartless", "Warlock"],
+    "cost": "4"
+  },
+  "templarassassin": {
+    "name": "Templar Assassin",
+    "alliances": ["Elusive", "Assassin"],
+    "cost": "4"
+  },
+  "trollwarlord": {
+    "name": "Troll Warlord",
+    "alliances": ["Troll", "Warrior"],
+    "cost": "4"
+  },
+  "enigma": {
+    "name": "Enigma",
+    "alliances": ["Primordial", "Warlock"],
+    "cost": "5"
+  },
+  "gyrocopter": {
+    "name": "Gyrocopter",
+    "alliances": ["Deadeye", "Inventor"],
+    "cost": "5"
+  },
+  "lich": {
+    "name": "Lich",
+    "alliances": ["Heartless", "Mage"],
+    "cost": "5"
+  },
+  "techies": {
+    "name": "Techies",
+    "alliances": ["Scrappy", "Inventor"],
+    "cost": "5"
+  },
+  "tidehunter": {
+    "name": "Tidehunter",
+    "alliances": ["Scaled", "Hunter"],
+    "cost": "5"
+  }
+}
