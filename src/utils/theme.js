@@ -6,5 +6,6 @@ export const darkTheme = {
   secondaryBackground: '#4A4E69',
   highlight: '#F2E9E4',
   pink: '#C9ADA7',
-  purple: '#9A8C98'
+  purple: '#9A8C98',
+  inactive: '#9e9e9e',
 };
